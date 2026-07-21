@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi Everyone 👋
+🚀 DevOps Engineer Profile
 
-<!--
-**vishlearn14/vishlearn14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🖥️ Tech Expertise: Skilled in Linux, Docker, Git/GitHub, CI/CD pipelines, and cloud‑native practices.
 
-Here are some ideas to get you started:
+##⚙️ Automation Focus: Passionate about streamlining workflows, reducing manual effort, and accelerating deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🌐 Collaboration: Strong communicator who bridges the gap between development and operations teams.
+
+##🔧 Problem Solver: Adept at troubleshooting complex issues and ensuring system reliability.
+
+##📈 Scalability Mindset: Experienced in building and optimizing systems for performance and growth.
+
+##📚 Continuous Learner: Quick to adapt to new tools and technologies, always eager to expand skillset.
+
+##🤝 Team Player: Committed to knowledge sharing, mentoring, and driving efficiency across projects.
